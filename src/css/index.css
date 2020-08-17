@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@300;400&display=swap');
+
+body {
+  background: #c3d6e9;
+  color: #092a49;
+   margin: 0;
+   font-family: 'Teko', sans-serif;
+ }
+ 
+ 
+ .default-flex-row {
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+   justify-content: flex-start;
+ }
+ 
+h1{
+  color: #0f579b;
+  font-family: 'Russo One', sans-serif;
+}
+
+h3{
+  font-weight: 400;
+  
+}
+
+ .padding {
+   padding: 10px;
+ }
