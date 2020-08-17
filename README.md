@@ -1,4 +1,4 @@
-# :fast_forward: Interest Calculator :rewind:
+<h1 align = "center"> :fast_forward: Interest Calculator :rewind: </h1>
 
 ## 🖥 Preview
 <p align = "center">
