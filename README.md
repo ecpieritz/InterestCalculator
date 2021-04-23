@@ -2,7 +2,7 @@
 
 ## 🖥 Preview
 <p align = "center">
-  <img src = "https://scontent.fbnu2-1.fna.fbcdn.net/v/t1.0-9/117772363_1703834683104209_1453860542252202747_n.jpg?_nc_cat=111&_nc_sid=0debeb&_nc_eui2=AeFbQqLmdOn1ovyJDskV1j2BF6F1W5BJ6pcXoXVbkEnql_6QkxajeY4UgN1ZGCEPtzRFLw7p7asJcMgBSD9T8Ua7&_nc_ohc=KHAIjzEPA7kAX_499cH&_nc_ht=scontent.fbnu2-1.fna&oh=5504793c9b3cde731c2be9db85965d8e&oe=5F5E9481" width = "700">
+  <img src = "https://raw.githubusercontent.com/ecpieritz/InterestCalculator/master/public/img/interest-calculator-print.jpg" width = "700">
 </p>
 
 ---
