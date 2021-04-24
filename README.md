@@ -2,7 +2,7 @@
 
 ## 🖥 Preview
 <p align = "center">
-  <img src = "https://raw.githubusercontent.com/ecpieritz/InterestCalculator/master/public/img/interest-calculator-print.jpg" width = "700">
+  <img src = "https://raw.githubusercontent.com/ecpieritz/InterestCalculator/master/public/img/interest-calculator-print.jpg" width = "800">
 </p>
 
 ---
