@@ -51,7 +51,7 @@ Use useEffect hook, with the three inputs as deps, to "watch" their change and r
 
 ## 🚀 How to execute the project
 #### Clone the repository
-git clone https://github.com/EPieritz/InterestCalculator.git
+git clone https://github.com/ecpieritz/InterestCalculator.git
 
 #### Enter directory
 `cd InterestCalculator`
